@@ -1,0 +1,2 @@
+# Hotel Management Database
+This project contains a relational model for a hotel management database system, including the entities, relationships, and attributes necessary for managing hotel, employee, room, and session data.
